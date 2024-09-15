@@ -74,7 +74,7 @@ header a:hover {
   height: 100vh;
   width: 100%;
   position: relative;
-  background: url("https://koa.com/blog/images/family-camping-at-sunset.jpg?preset=heroimagecropped");
+  background: url(https://koa.com/blog/images/family-camping-at-sunset.jpg?preset=heroimagecropped);
   background-position: center 65%;
   background-size: cover;
   background-attachment: fixed;
